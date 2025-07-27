@@ -16,4 +16,4 @@ MBTI: ENFP (브랜치에서 추가됨)
 Frontend: HTML, CSS, JavaScript
 Backend: Python
 Systems: C++
-Tools: Git, Arduino
+Tools: Git, Arduino, VSCode
