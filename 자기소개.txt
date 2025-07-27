@@ -11,3 +11,9 @@ MBTI: ENFP (브랜치에서 추가됨)
 1. Git 학습 프로젝트 (진행중)
 2. Arduino 스마트 선풍기 (완료)
 3. ZEPETO OBS 오버레이 (완료)
+
+=== 기술 스택 ===
+Frontend: HTML, CSS, JavaScript
+Backend: Python
+Systems: C++
+Tools: Git, Arduino
