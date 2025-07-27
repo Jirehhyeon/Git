@@ -7,3 +7,4 @@ Git 고급 기능 학습을 통한 전문 개발자 역량 강화
 1. Rebase 기초
 2. Interactive Rebase
 3. 커밋 히스토리 정리
+4. 고급 Git 명령어
