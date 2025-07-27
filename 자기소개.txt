@@ -6,4 +6,9 @@
 MBTI: ENFP (브랜치에서 추가됨)
 장래희망: 풀스택 개발자
 2025년 목표: Git 마스터, React 완주
-추가 스킬: HTML, CSS, JavaScript, Python, C++
+
+=== 기술 스택 ===
+Frontend: HTML, CSS, JavaScript
+Backend: Python
+Systems: C++
+Tools: Git, Arduino
