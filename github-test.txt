@@ -1,0 +1,9 @@
+안녕하세요! GitHub와 연결된 첫 번째 메시지입니다.
+
+이 파일은 Level 2 실습 과제로 생성되었습니다.
+- 로컬에서 파일 생성
+- git add로 스테이징
+- git commit으로 커밋
+- git push로 GitHub 업로드
+
+Git과 GitHub의 연동이 완벽하게 작동합니다! 🎉
